@@ -11,7 +11,7 @@ Easy-to-use interface for channel management.
 Firebase Configuration:
 
 Integrate Firebase into the project for push notifications.
-Ensure FCM setup for at least one platform (e.g., Web, Android, iOS).
+Ensure FCM setup for at least one platform (e.g., Web[ReactJS , NodeJS]).
 Basic User Interface:
 
 Create a simple UI displaying a list of channels available for subscription.
